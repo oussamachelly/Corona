@@ -1,2 +1,3 @@
 # hello-world
-Hello World project for github
+Hello World!
+My name is Oussama and I am a Machine Learning Engineer.
